@@ -81,6 +81,7 @@ const members = [
     linkedin: "https://www.linkedin.com/in/nuredy-rahma-gunawan-46bb29302/",
     github: "https://github.com/awann-cloud",
     image: awan_cloud,
+    quote: "tidak hanya 1 + 1 untuk menghasilkan 2"
   },
   {
     name: "Achmad Faiz Yudha Ramadhan",
@@ -139,7 +140,7 @@ const members = [
     linkedin: "linkedin.com/in/anjelia-hidayat/",
     github: "https://github.com/enjeliaa",
     image: enjel,
-    quote: "ckptw",
+    quote: "stay alive ya",
   },
   {
     name: "Farrel Athaillah Wijaya",
