@@ -19,4 +19,12 @@ const members = [
     github: "Kokoparel",
     linkedin: "farrelaw", // optional
   },
+  {
+    name: "Aulia Mutiara Sari",
+    major: "Public Health",
+    batch: "2025",
+    role: "Member",
+    github: "auliamutiaraa",
+    linkedin: "aulia-mutiara-sari", // optional
+  },
 ];
