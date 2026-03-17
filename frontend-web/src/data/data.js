@@ -13,6 +13,8 @@ import github from "@/assets/github.png";
 import tailwind from "@/assets/tailwind.png";
 import react from "@/assets/react.png";
 import props from "@/assets/props.png";
+import state from "@/assets/state.png";
+
 import {
   Code2,
   Palette,
@@ -22,6 +24,7 @@ import {
   Instagram,
   Linkedin,
   Layers,
+  RefreshCw,
 } from "lucide-react";
 
 const features = [
@@ -241,6 +244,18 @@ const learnings = [
     image: props,
     github:
       "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/4-react-components-props",
+  },
+  {
+    icon: RefreshCw,
+    title: "Basic State Management",
+    description:
+      "Learning materials cover the concept of state in React, the use of the useState hook for local data management, the re-rendering process, and best practices for creating dynamic and interactive user interfaces.",
+    color: "google-blue",
+    files:
+      "https://drive.google.com/file/d/1LWLoLg8jZBgHkQvHOnF5fpf1-qSq5uqk/view?usp=sharing",
+    image: state,
+    github:
+      "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/5-basic-state-management",
   },
 ];
 
